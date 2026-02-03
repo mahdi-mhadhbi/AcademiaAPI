@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "s5lUzYksKG4=",
+  "dgSpecHash": "UCZWy35/pXU=",
   "success": true,
   "projectFilePath": "D:\\projects\\EducationalAPI\\Educational.API\\Educational.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Escanor\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Escanor\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\Escanor\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.0\\microsoft.aspnet.identity.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Escanor\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.0\\microsoft.aspnet.identity.entityframework.2.2.0.nupkg.sha512",
+    "C:\\Users\\Escanor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Escanor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Escanor\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\Escanor\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
