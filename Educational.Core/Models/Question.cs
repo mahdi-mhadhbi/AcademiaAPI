@@ -10,7 +10,7 @@ namespace Educational.Core.Models
 {
     public class Question
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         [Required]
         public string Text { get; set; }
         public List<Options> Options { get; set; } = new List<Options>();
@@ -19,6 +19,6 @@ namespace Educational.Core.Models
         public int CorrectAnswerOption { get; set; }
         public Exam Exam { get; set; }
         [ForeignKey(nameof(Exam))]
-        public int ExamId { get; set; }
+        public Guid ExamId { get; set; }
     }
 }

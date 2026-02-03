@@ -11,7 +11,7 @@ namespace Educational.Core.Models
     public class Enrollment
     {
 
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public DateTime EnrollAt { get; set; } = DateTime.Now;
         [Required]
         public Status Status { get; set; }

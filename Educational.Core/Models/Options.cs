@@ -10,7 +10,7 @@ namespace Educational.Core.Models
 {
     public class Options
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         [Required]
         [MaxLength(100)]
         public string Text { get; set; }
@@ -18,6 +18,6 @@ namespace Educational.Core.Models
         public int Order { get; set; }
         public Question Question { get; set; }
         [ForeignKey(nameof(Question))]
-        public int QuestionId { get; set; }
+        public Guid QuestionId { get; set; }
     }
 }

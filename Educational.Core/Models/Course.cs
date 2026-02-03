@@ -9,7 +9,7 @@ namespace Educational.Core.Models
 {
     public class Course
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         [Required]
         [MaxLength(100)]
         public string Title { get; set; }

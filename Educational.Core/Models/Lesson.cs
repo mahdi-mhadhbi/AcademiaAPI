@@ -10,7 +10,7 @@ namespace Educational.Core.Models
 {
     public class Lesson
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         [Required]
         [MaxLength(100)]
         public string Name { get; set; }
@@ -24,6 +24,6 @@ namespace Educational.Core.Models
         public int DurationMinutes { get; set; }
         public Course Course { get; set; }
         [ForeignKey(nameof(Course))]
-        public int CourseId { get; set; }
+        public Guid CourseId { get; set; }
     }
 }
