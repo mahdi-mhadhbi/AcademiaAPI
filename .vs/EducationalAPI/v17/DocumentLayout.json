@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\EducationalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Options.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Options.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Options.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Options.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Options.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:59:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Question.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Question.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Question.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:58:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Status.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Status.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:58:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Lesson.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Lesson.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:54:02.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Grade.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Grade.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Grade.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:00:05.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Exam.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Exam.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:53:00.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:55:33.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Course.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Course.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:53:08.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Student.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Student.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:56:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\User.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\User.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:57:05.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
