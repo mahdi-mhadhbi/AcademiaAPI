@@ -4,14 +4,14 @@
     "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj": {
+    "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj",
-        "projectName": "Educational.Infrastructure",
-        "projectPath": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj",
+        "projectUniqueName": "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj",
+        "projectName": "Educational.Core",
+        "projectPath": "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj",
         "packagesPath": "C:\\Users\\Escanor\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\obj\\",
+        "outputPath": "D:\\projects\\EducationalAPI\\Educational.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Escanor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,81 @@
             "Microsoft.AspNet.Identity.EntityFramework": {
               "target": "Package",
               "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj",
+        "projectName": "Educational.Infrastructure",
+        "projectPath": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Escanor\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Escanor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj": {
+                "projectPath": "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
