@@ -19,5 +19,8 @@ namespace Educational.Core.Models
         public decimal Price { get; set; }
         public List<Lesson> Lessons { get; set; } = new List<Lesson>();
         public Exam Exam { get; set; }
+
+        public List<Enrollment> Enrollments { get; set; } = new();
+
     }
 }

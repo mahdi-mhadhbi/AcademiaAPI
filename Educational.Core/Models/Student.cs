@@ -21,5 +21,10 @@ namespace Educational.Core.Models
         public int Level { get; set; }
         [MaxLength(100)]
         public string Governorate { get; set; }
+
+        public List<Grade> Grades { get; set; } = new();
+
+        public List<Enrollment> Enrollments { get; set; } = new();
+
     }
 }

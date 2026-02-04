@@ -17,9 +17,9 @@ namespace Educational.Core.Models
         public Status Status { get; set; }
         public Student Student { get; set; }
         [ForeignKey(nameof(Student))]
-        public int StudentId { get; set; }
+        public Guid StudentId { get; set; }
         public Course Course { get; set; }
         [ForeignKey(nameof(Course))]
-        public int CourseId { get; set; }
+        public Guid CourseId { get; set; }
     }
 }

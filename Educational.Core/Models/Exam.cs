@@ -18,6 +18,9 @@ namespace Educational.Core.Models
         public string Description { get; set; }
         [Required]
         public double TotalMarks { get; set; }
+
+        public List<Grade> Grades { get; set; } = new();
+
         public Course Course { get; set; }
         [ForeignKey(nameof(Course))]
         public Guid CourseId { get; set; }

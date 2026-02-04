@@ -1,0 +1,13 @@
+D:\projects\EducationalAPI\Educational.Core\bin\Debug\net8.0\Educational.Core.deps.json
+D:\projects\EducationalAPI\Educational.Core\bin\Debug\net8.0\Educational.Core.dll
+D:\projects\EducationalAPI\Educational.Core\bin\Debug\net8.0\Educational.Core.pdb
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.csproj.AssemblyReference.cache
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.AssemblyInfoInputs.cache
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.AssemblyInfo.cs
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.csproj.CoreCompileInputs.cache
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.sourcelink.json
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.dll
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\refint\Educational.Core.dll
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\Educational.Core.pdb
+D:\projects\EducationalAPI\Educational.Core\obj\Debug\net8.0\ref\Educational.Core.dll
