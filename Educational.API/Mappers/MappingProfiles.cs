@@ -12,10 +12,11 @@ namespace Educational.API.Mappers
             CreateMap<Student, StudentDTO>();
 
             CreateMap<Enrollment, EnrollmentDTO>()
-
-            .ForMember(d => d.Name_student, i => i.MapFrom(src => src.Student.Name))
-            .ForMember(d => d.Title_course, i => i.MapFrom(src => src.Course.Title))
-            .ReverseMap();
+                .ForMember(d => d.FKStudent, o => o.MapFrom(s => s.StudentId))
+                .ForMember(d => d.FKCourse, o => o.MapFrom(s => s.CourseId))
+                .ForMember(d => d.Name_student, o => o.MapFrom(s => s.Student.Name))
+                .ForMember(d => d.Title_course, o => o.MapFrom(s => s.Course.Title))
+                .ReverseMap();
 
             CreateMap<Exam, ExamDTO>()
 
