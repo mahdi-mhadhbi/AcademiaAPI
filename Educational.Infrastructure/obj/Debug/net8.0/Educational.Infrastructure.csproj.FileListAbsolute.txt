@@ -1,5 +1,4 @@
 D:\projects\EducationalAPI\Educational.Infrastructure\bin\Debug\net8.0\Educational.Infrastructure.deps.json
-D:\projects\EducationalAPI\Educational.Infrastructure\bin\Debug\net8.0\Educational.Infrastructure.runtimeconfig.json
 D:\projects\EducationalAPI\Educational.Infrastructure\bin\Debug\net8.0\Educational.Infrastructure.dll
 D:\projects\EducationalAPI\Educational.Infrastructure\bin\Debug\net8.0\Educational.Infrastructure.pdb
 D:\projects\EducationalAPI\Educational.Infrastructure\bin\Debug\net8.0\Educational.Core.dll
@@ -14,5 +13,4 @@ D:\projects\EducationalAPI\Educational.Infrastructure\obj\Debug\net8.0\Educatio.
 D:\projects\EducationalAPI\Educational.Infrastructure\obj\Debug\net8.0\Educational.Infrastructure.dll
 D:\projects\EducationalAPI\Educational.Infrastructure\obj\Debug\net8.0\refint\Educational.Infrastructure.dll
 D:\projects\EducationalAPI\Educational.Infrastructure\obj\Debug\net8.0\Educational.Infrastructure.pdb
-D:\projects\EducationalAPI\Educational.Infrastructure\obj\Debug\net8.0\Educational.Infrastructure.genruntimeconfig.cache
 D:\projects\EducationalAPI\Educational.Infrastructure\obj\Debug\net8.0\ref\Educational.Infrastructure.dll

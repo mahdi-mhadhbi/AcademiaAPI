@@ -21,11 +21,13 @@ namespace Educational.API.Controllers
             _mapper = mapper;
         }
 
+        [HttpPost]
         public void AddList(List<Options> options)
         {
             _context.Options.AddRange(options);
         }
 
+        [HttpDelete]
         public void RemoveList(List<Options> options)
         {
             _context.Options.RemoveRange(options);

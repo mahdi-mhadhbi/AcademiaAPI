@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Educational.Infrastructure.Context
 {
-    public  class AppDbContext : IdentityDbContext<IdentityUser>
+    public  class AppDbContext : IdentityDbContext<User>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
@@ -48,6 +48,13 @@ namespace Educational.Infrastructure.Context
             modelBuilder.Entity<Options>().HasKey(c => c.Id);
 
             modelBuilder.Entity<Enrollment>().HasKey(c => c.Id);
+
+
+            modelBuilder.Entity<User>()
+            .HasOne(u => u.Student)
+            .WithOne(s => s.User)
+            .HasForeignKey<Student>(s => s.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
 
             //Empêcher un étudiant de s’inscrire deux fois au même cours
             modelBuilder.Entity<Enrollment>()

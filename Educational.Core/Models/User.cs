@@ -7,8 +7,14 @@ using System.Threading.Tasks;
 
 namespace Educational.Core.Models
 {
-    public class User : IdentityUser
-    {
-        public Student Student { get; set; }
-    }
+        public class User : IdentityUser
+        {
+
+            public string FirstName { get; set; } = string.Empty;
+            public string LastName { get; set; } = string.Empty;
+
+            public string Role { get; set; } = "Student";
+            public Student Student { get; set; }
+
+        }
 }

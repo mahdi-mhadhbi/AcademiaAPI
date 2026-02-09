@@ -5,7 +5,7 @@ using Educational.Core.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System.Data.Entity;
+
 
 namespace Educational.API.Controllers
 {
