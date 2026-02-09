@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\projects\\EducationalAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|d:\\projects\\educationalapi\\educational.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|solutionrelative:educational.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|d:\\projects\\educationalapi\\educational.api\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|solutionrelative:educational.api\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|d:\\projects\\educationalapi\\educational.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|solutionrelative:educational.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|d:\\projects\\educationalapi\\educational.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|solutionrelative:educational.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|d:\\projects\\educationalapi\\educational.api\\mappers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|solutionrelative:educational.api\\mappers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|d:\\projects\\educationalapi\\educational.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|solutionrelative:educational.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|d:\\projects\\educationalapi\\educational.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|solutionrelative:educational.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\educational.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -49,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|d:\\projects\\educationalapi\\educational.api\\educational.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|solutionrelative:educational.api\\educational.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\dtos\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{5476DCD5-57EE-47CD-8FB8-E61431CE43FB}|Educational.Infrastructure\\Educational.Infrastructure.csproj|solutionrelative:educational.infrastructure\\educational.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|d:\\projects\\educationalapi\\educational.api\\mappers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D27B5DC-2831-4A7D-97E6-C28D62EF9AAE}|Educational.API\\Educational.API.csproj|solutionrelative:educational.api\\mappers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|d:\\projects\\educationalapi\\educational.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7845F88C-6373-43F5-A2B8-07937D026A1C}|Educational.Core\\Educational.Core.csproj|solutionrelative:educational.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,166 +151,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Educational.API\\Controllers\\ExamController.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Educational.API\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:04:14.203Z",
+              "WhenOpened": "2026-02-09T10:44:50.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Educational.Infrastructure\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Educational.Infrastructure\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Educational.API\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Educational.API\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:03:59.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Educational.Core",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj",
-              "RelativeDocumentMoniker": "Educational.Core\\Educational.Core.csproj",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj",
-              "RelativeToolTip": "Educational.Core\\Educational.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-05T14:02:55.663Z",
+              "WhenOpened": "2026-02-09T10:44:13.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Repositories\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Educational.Core\\Repositories\\IUnitOfWork.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Repositories\\IUnitOfWork.cs",
-              "RelativeToolTip": "Educational.Core\\Repositories\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T13:41:25.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Repositories\\IRepository.cs",
               "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Educational.Core\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wCQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T13:41:05.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260204155401_InitialCreate.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
-              "RelativeToolTip": "Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:54:02.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Program.cs",
-              "RelativeDocumentMoniker": "Educational.API\\Program.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Program.cs",
-              "RelativeToolTip": "Educational.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T13:40:21.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Educational.Core\\Models\\Student.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Student.cs",
-              "RelativeToolTip": "Educational.Core\\Models\\Student.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:56:11.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Educational.Infrastructure\\Context\\AppDbContext.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Educational.Infrastructure\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T16:15:23.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Educational.API\\appsettings.json",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\appsettings.json",
-              "RelativeToolTip": "Educational.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-04T13:40:48.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Educational.Core\\Models\\User.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\User.cs",
-              "RelativeToolTip": "Educational.Core\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:57:05.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Educational.API.csproj",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Educational.API.csproj",
-              "RelativeDocumentMoniker": "Educational.API\\Educational.API.csproj",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Educational.API.csproj",
-              "RelativeToolTip": "Educational.API\\Educational.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-04T13:35:30.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "ExamDTO.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\ExamDTO.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Dtos\\ExamDTO.cs",
@@ -315,7 +202,170 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Mappers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Educational.API\\Mappers\\MappingProfiles.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Mappers\\MappingProfiles.cs",
+              "RelativeToolTip": "Educational.API\\Mappers\\MappingProfiles.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:35:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Educational.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T14:04:14.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentDTO.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\EnrollmentDTO.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Dtos\\EnrollmentDTO.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\EnrollmentDTO.cs",
+              "RelativeToolTip": "Educational.Core\\Dtos\\EnrollmentDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:23:45.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Educational.Core\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:41:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Educational.Core.csproj",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj",
+              "RelativeDocumentMoniker": "Educational.Core\\Educational.Core.csproj",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Educational.Core.csproj",
+              "RelativeToolTip": "Educational.Core\\Educational.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T14:02:55.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Educational.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Educational.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T14:03:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260204155401_InitialCreate.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
+              "RelativeToolTip": "Educational.Infrastructure\\Migrations\\20260204155401_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:54:02.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Program.cs",
+              "RelativeDocumentMoniker": "Educational.API\\Program.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Program.cs",
+              "RelativeToolTip": "Educational.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:40:21.747Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\Student.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Student.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\Student.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:56:11.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Educational.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Educational.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:15:23.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Educational.API\\appsettings.json",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\appsettings.json",
+              "RelativeToolTip": "Educational.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T13:40:48.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Educational.Core\\Models\\User.cs",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\User.cs",
+              "RelativeToolTip": "Educational.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:57:05.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Educational.API.csproj",
+              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Educational.API.csproj",
+              "RelativeDocumentMoniker": "Educational.API\\Educational.API.csproj",
+              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Educational.API.csproj",
+              "RelativeToolTip": "Educational.API\\Educational.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T13:35:30.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "GradeDTO.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\GradeDTO.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Dtos\\GradeDTO.cs",
@@ -323,12 +373,11 @@
               "RelativeToolTip": "Educational.Core\\Dtos\\GradeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:21:40.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T15:21:40.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Exam.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Exam.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Exam.cs",
@@ -336,12 +385,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Exam.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:53:00.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:53:00.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Course.cs",
@@ -349,25 +397,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Course.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:53:08.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:53:08.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EnrollmentDTO.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\EnrollmentDTO.cs",
-              "RelativeDocumentMoniker": "Educational.Core\\Dtos\\EnrollmentDTO.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\EnrollmentDTO.cs",
-              "RelativeToolTip": "Educational.Core\\Dtos\\EnrollmentDTO.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:23:45.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Question.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Question.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Question.cs",
@@ -375,12 +409,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Question.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:58:43.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:58:43.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Enrollment.cs",
@@ -388,12 +421,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:55:33.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:55:33.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Grade.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Grade.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Grade.cs",
@@ -401,12 +433,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Grade.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:00:05.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T14:00:05.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Lesson.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Lesson.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Lesson.cs",
@@ -414,12 +445,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Lesson.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:54:02.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:54:02.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Options.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Options.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Options.cs",
@@ -427,12 +457,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Options.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:59:14.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:59:14.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Status.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Models\\Status.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Models\\Status.cs",
@@ -440,12 +469,11 @@
               "RelativeToolTip": "Educational.Core\\Models\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:58:02.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T13:58:02.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Educational.Infrastructure.csproj",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Infrastructure\\Educational.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Educational.Infrastructure\\Educational.Infrastructure.csproj",
@@ -453,12 +481,11 @@
               "RelativeToolTip": "Educational.Infrastructure\\Educational.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T16:22:10.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T16:22:10.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\StudentDTO.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Dtos\\StudentDTO.cs",
@@ -466,25 +493,11 @@
               "RelativeToolTip": "Educational.Core\\Dtos\\StudentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:29:29.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T15:29:29.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.API\\Mappers\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "Educational.API\\Mappers\\MappingProfiles.cs",
-              "ToolTip": "D:\\projects\\EducationalAPI\\Educational.API\\Mappers\\MappingProfiles.cs",
-              "RelativeToolTip": "Educational.API\\Mappers\\MappingProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:35:08.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "QuestionDTO.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\QuestionDTO.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Dtos\\QuestionDTO.cs",
@@ -492,12 +505,11 @@
               "RelativeToolTip": "Educational.Core\\Dtos\\QuestionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:12:57.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T15:12:57.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "LessonDTO.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\LessonDTO.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Dtos\\LessonDTO.cs",
@@ -505,12 +517,11 @@
               "RelativeToolTip": "Educational.Core\\Dtos\\LessonDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:19:24.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T15:19:24.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "OptionDTO.cs",
               "DocumentMoniker": "D:\\projects\\EducationalAPI\\Educational.Core\\Dtos\\OptionDTO.cs",
               "RelativeDocumentMoniker": "Educational.Core\\Dtos\\OptionDTO.cs",
@@ -518,8 +529,7 @@
               "RelativeToolTip": "Educational.Core\\Dtos\\OptionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:16:14.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T15:16:14.408Z"
             },
             {
               "$type": "Bookmark",
